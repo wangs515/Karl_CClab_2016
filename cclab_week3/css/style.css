@@ -1,0 +1,60 @@
+body {
+
+}
+
+#title {
+	font-size: 20pt;
+	margin-top: 20pt;
+	margin-bottom: 10pt;
+}
+#Latitude {
+	font-weight: bold;
+	text-align: center;
+	float: left;
+	position: relative;
+	left: 30pt;
+	margin:10pt;
+
+}
+#currentLat {
+	position: relative;
+	left: 19.5pt;
+}
+
+#currentLng {
+	position: relative;
+	left: 10pt;
+}
+
+#Longitude {
+	font-weight: bold;
+	text-align: center;
+	float: left;
+	position: relative;
+	left: 55pt;
+	margin:10pt;
+}
+
+#submit {
+	padding:5px 15px; border:0px black solid;
+	/*cursor:pointer;*/
+	background:black;
+	color: white;
+	float: right;
+	margin-right: 50px;
+	margin-top: 7px;
+    -webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#submit:hover {
+	background: #94bdff;
+}
+
+#map {
+	margin-bottom: 10pt;
+	height: 450pt; 
+	width:800pt;
+}
+
+#
